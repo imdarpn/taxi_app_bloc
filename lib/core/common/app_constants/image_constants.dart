@@ -1,0 +1,47 @@
+class ImageConstants {
+  static const String onboarding_1 = "assets/images/onboarding_1.svg";
+  static const String onboarding_2 = "assets/images/onboarding_2.svg";
+  static const String onboarding_3 = "assets/images/onboarding_3.svg";
+  static const String locationImage = "assets/images/location_image.svg";
+  static const String logo = "assets/images/logo.png";
+  static const String logoWhite = "assets/images/logo_white.png";
+  static const String menuIcon = "assets/images/menu_icon.svg";
+  static const String backIcon = "assets/images/back_icon.svg";
+  static const String profile = "assets/images/profile.png";
+  static const String firstLocationIcon = "assets/images/first_location_icon.svg";
+  static const String firstLocationIconDark = "assets/images/first_location_icon_dark.svg";
+  static const String secondLocation = "assets/images/second_location.svg";
+  static const String secondLocationDark = "assets/images/second_location_dark.svg";
+
+  static const String history = "assets/images/history.svg";
+  static const String call = "assets/images/call.svg";
+  static const String edit = "assets/images/edit.svg";
+  static const String bank = "assets/images/bank.svg";
+  static const String plusIcon = "assets/images/plus_icon.svg";
+  static const String closeIcon = "assets/images/close_icon.svg";
+  static const String likeIcon = "assets/images/like_icon.svg";
+  static const String currentLocation = "assets/images/current_location.svg";
+  static const String camera = "assets/images/camera.svg";
+  static const String user = "assets/images/user.svg";
+  static const String email = "assets/images/email.svg";
+  static const String cardIcon = "assets/images/credit_card.svg";
+  static const String cardSecurity = "assets/images/card_security.svg";
+  static const String calendar = "assets/images/calendar.svg";
+  static const String cvv = "assets/images/cvv.svg";
+  static const String visa = "assets/images/visa.svg";
+  static const String inviteFrnd = "assets/images/invite_frnd.svg";
+  static const String car = "assets/images/car.png";
+  static const String auto = "assets/images/auto.png";
+  static const String bike = "assets/images/bike.png";
+  static const String applyCoupon = "assets/images/apply_coupon.svg";
+  static const String paypal = "assets/images/paypal.svg";
+  static const String cash = "assets/images/cash.svg";
+  static const String couponCar = "assets/images/coupon_car.svg";
+  static const String starIcon = "assets/images/star_icon.svg";
+  static const String starIconUnrated = "assets/images/star_icon_unrated.svg";
+  static const String complaint = "assets/images/complaint.svg";
+  static const String select = "assets/images/select.svg";
+  static const String deSelect = "assets/images/de_select.svg";
+  static const String findDriverImg = "assets/images/find_driver_img.svg";
+  static const String wallet = "assets/images/wallet.svg";
+}
